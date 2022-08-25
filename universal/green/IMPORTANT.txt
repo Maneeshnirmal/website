@@ -1,0 +1,14 @@
+ col-md-4
+ <div style="color: black;"class="probootstrap-animate probootstrap-sub-wrap mb30" data-animate-effect="fadeIn">website design organisation by:<a style="color:red;"href="#">MANEESH</a><a href=""></a></div>
+ <div class="container">
+    <label for="admin"><b>DEVICE ID</b></label>
+    <input type="text" placeholder="Enter ID" name="admin" required>
+
+    <label for="password"><b>PASSWORD</b></label>
+    <input type="password" placeholder="Enter Password" name="password" required>
+        
+    <button type="submit">Login</button>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
